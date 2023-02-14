@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c1fcdaae","path":"/knowledge/JS/builtInObject/","title":"标准内置对象 Standard Built-in Objects","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1676392926000,"contributors":[{"name":"laoxuye","email":"1470566187@qq.com","commits":1}]},"filePathRelative":"knowledge/JS/builtInObject/README.md"}');export{e as data};

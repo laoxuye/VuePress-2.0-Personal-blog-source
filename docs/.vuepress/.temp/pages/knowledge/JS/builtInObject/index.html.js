@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-c1fcdaae\",\"path\":\"/knowledge/JS/builtInObject/\",\"title\":\"标准内置对象 Standard Built-in Objects\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"knowledge/JS/builtInObject/README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-c1fcdaae\",\"path\":\"/knowledge/JS/builtInObject/\",\"title\":\"标准内置对象 Standard Built-in Objects\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1676392926000,\"contributors\":[{\"name\":\"laoxuye\",\"email\":\"1470566187@qq.com\",\"commits\":1}]},\"filePathRelative\":\"knowledge/JS/builtInObject/README.md\"}")

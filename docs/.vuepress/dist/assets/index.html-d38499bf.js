@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ed9098c","path":"/knowledge/JS/basicSyntax/","title":"基本语法 Basic Concept","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1676392926000,"contributors":[{"name":"laoxuye","email":"1470566187@qq.com","commits":1}]},"filePathRelative":"knowledge/JS/basicSyntax/README.md"}');export{e as data};

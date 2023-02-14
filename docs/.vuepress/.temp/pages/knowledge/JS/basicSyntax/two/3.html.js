@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-2b76573a\",\"path\":\"/knowledge/JS/basicSyntax/two/3.html\",\"title\":\"对象初始化表达式\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"knowledge/JS/basicSyntax/two/3.md\"}")

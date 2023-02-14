@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-13bcc40a\",\"path\":\"/technology/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Hello 你好，朋友\",\"slug\":\"hello-你好-朋友\",\"link\":\"#hello-你好-朋友\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"technology/README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-13bcc40a\",\"path\":\"/technology/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Hello 你好，朋友\",\"slug\":\"hello-你好-朋友\",\"link\":\"#hello-你好-朋友\",\"children\":[]}],\"git\":{\"updatedTime\":1676392926000,\"contributors\":[{\"name\":\"laoxuye\",\"email\":\"1470566187@qq.com\",\"commits\":1}]},\"filePathRelative\":\"technology/README.md\"}")

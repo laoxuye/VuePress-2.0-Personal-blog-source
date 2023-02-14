@@ -41,12 +41,22 @@ export default defineUserConfig({
               link: "/knowledge/JS/basicSyntax/",
               children: [
                 {
-                  title: "数据类型和值",
+                  text: "数据类型和值",
                   collapsible: true,
                   children: [
                     "/knowledge/JS/basicSyntax/one/1",
                     "/knowledge/JS/basicSyntax/one/2",
                     "/knowledge/JS/basicSyntax/one/3",
+                  ],
+                },
+                {
+                  text: "表达式",
+                  collapsible: true,
+                  children: [
+                    "/knowledge/JS/basicSyntax/two/1",
+                    "/knowledge/JS/basicSyntax/two/2",
+                    "/knowledge/JS/basicSyntax/two/3",
+                    "/knowledge/JS/basicSyntax/two/4",
                   ],
                 },
               ],

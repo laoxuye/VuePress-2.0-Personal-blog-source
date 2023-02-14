@@ -389,6 +389,33 @@ a<span class="token punctuation">.</span><span class="token function">valueOf</s
 <span class="token keyword">undefined</span> <span class="token operator">==</span> <span class="token keyword">null</span><span class="token punctuation">;</span> <span class="token comment">// true</span>
 nul <span class="token operator">==</span> <span class="token keyword">null</span><span class="token punctuation">;</span> <span class="token comment">// true</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4 id="关系运算符" tabindex="-1"><a class="header-anchor" href="#关系运算符" aria-hidden="true">#</a> 关系运算符</h4>
-</div></template>
+<p>关系运算符：会把其他数据类型转换成 Number 之后再比较关系（除了 Date 类型对象）</p>
+<ul>
+<li>如果两个操作值都是数值，则进行 <strong>数值</strong> 比较</li>
+<li>如果两个操作值都是字符串，则比较字符串对应的 <strong>ASCII 字符编码值</strong>
+<ul>
+<li>多个字符则从左往右依次比较</li>
+</ul>
+</li>
+<li>如果只有一个操作值是数值，则将另一个操作值转换为数值，进行 <strong>数值</strong> 比较</li>
+<li>如果一个操作数是对象，则调用 <code v-pre>valueOf()</code> 方法（如果对象没有 <code v-pre>valueOf()</code> 方法则调用 <code v-pre>toString()</code> 方法），得到的结果按照前面的规则执行比较</li>
+<li>如果一个操作值是布尔值，则将其转换为 <strong>数值</strong>，再进行比较</li>
+</ul>
+<p><code v-pre>NaN</code> 是非常特殊的值，它不和任何类型的值相等，包括它自己，同时它与任何类型的值比较大小时都返回 <code v-pre>false</code>。</p>
+<div class="language-javascript line-numbers-mode" data-ext="js"><pre v-pre class="language-javascript"><code><span class="token number">5</span> <span class="token operator">></span> <span class="token number">10</span><span class="token punctuation">;</span>
+<span class="token comment">// false</span>
+
+<span class="token string">'2'</span> <span class="token operator">></span> <span class="token number">10</span><span class="token punctuation">;</span>
+<span class="token comment">// false</span>
+
+<span class="token string">'2'</span> <span class="token operator">></span> <span class="token string">'10'</span><span class="token punctuation">;</span>
+<span class="token comment">// true</span>
+
+<span class="token string">'abc'</span> <span class="token operator">></span> <span class="token string">'b'</span><span class="token punctuation">;</span>
+<span class="token comment">// false</span>
+
+<span class="token string">'abc'</span> <span class="token operator">></span> <span class="token string">'aad'</span><span class="token punctuation">;</span>
+<span class="token comment">// true</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
 
 

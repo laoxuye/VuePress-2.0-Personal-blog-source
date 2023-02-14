@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-003c11ac","path":"/knowledge/","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"Hello 你好，朋友","slug":"hello-你好-朋友","link":"#hello-你好-朋友","children":[]}],"git":{"updatedTime":1676392926000,"contributors":[{"name":"laoxuye","email":"1470566187@qq.com","commits":1}]},"filePathRelative":"knowledge/README.md"}');export{e as data};
