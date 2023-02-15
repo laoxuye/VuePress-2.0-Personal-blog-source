@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as c,R as e,t as r}from"./framework-de73eade.js";const s={},o=e("h1",{id:"属性访问器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#属性访问器","aria-hidden":"true"},"#"),r(" 属性访问器")],-1),_=[o];function n(d,i){return a(),c("div",null,_)}const l=t(s,[["render",n],["__file","4.html.vue"]]);export{l as default};

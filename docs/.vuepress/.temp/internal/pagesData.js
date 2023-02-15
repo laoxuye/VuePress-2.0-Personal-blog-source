@@ -17,6 +17,14 @@ export const pagesData = {
   "v-4425c32c": () => import(/* webpackChunkName: "v-4425c32c" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/one/2.html.js").then(({ data }) => data),
   // path: /knowledge/JS/basicSyntax/one/3.html
   "v-40bc11ee": () => import(/* webpackChunkName: "v-40bc11ee" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/one/3.html.js").then(({ data }) => data),
+  // path: /knowledge/JS/basicSyntax/three/1.html
+  "v-191f0dda": () => import(/* webpackChunkName: "v-191f0dda" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/three/1.html.js").then(({ data }) => data),
+  // path: /knowledge/JS/basicSyntax/three/2.html
+  "v-15b55c9c": () => import(/* webpackChunkName: "v-15b55c9c" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/three/2.html.js").then(({ data }) => data),
+  // path: /knowledge/JS/basicSyntax/three/3.html
+  "v-124bab5e": () => import(/* webpackChunkName: "v-124bab5e" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/three/3.html.js").then(({ data }) => data),
+  // path: /knowledge/JS/basicSyntax/three/4.html
+  "v-0ee1fa20": () => import(/* webpackChunkName: "v-0ee1fa20" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/three/4.html.js").then(({ data }) => data),
   // path: /knowledge/JS/basicSyntax/two/1.html
   "v-3249b9b6": () => import(/* webpackChunkName: "v-3249b9b6" */"E:/project/Vue/vuePressBlogTwo/docs/.vuepress/.temp/pages/knowledge/JS/basicSyntax/two/1.html.js").then(({ data }) => data),
   // path: /knowledge/JS/basicSyntax/two/2.html

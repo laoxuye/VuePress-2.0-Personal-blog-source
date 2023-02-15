@@ -59,6 +59,16 @@ export default defineUserConfig({
                     "/knowledge/JS/basicSyntax/two/4",
                   ],
                 },
+                {
+                  text: "运算符",
+                  collapsible: true,
+                  children: [
+                    "/knowledge/JS/basicSyntax/three/1",
+                    "/knowledge/JS/basicSyntax/three/2",
+                    "/knowledge/JS/basicSyntax/three/3",
+                    "/knowledge/JS/basicSyntax/three/4",
+                  ],
+                },
               ],
             },
             {

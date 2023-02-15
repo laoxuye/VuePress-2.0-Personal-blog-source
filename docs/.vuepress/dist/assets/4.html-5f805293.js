@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-280ca5fc","path":"/knowledge/JS/basicSyntax/two/4.html","title":"属性访问器","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"knowledge/JS/basicSyntax/two/4.md"}');export{t as data};
