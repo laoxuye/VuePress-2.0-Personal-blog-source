@@ -69,6 +69,7 @@ export default defineUserConfig({
                     "/knowledge/JS/basicSyntax/three/4",
                     "/knowledge/JS/basicSyntax/three/5",
                     "/knowledge/JS/basicSyntax/three/6",
+                    "/knowledge/JS/basicSyntax/three/7",
                   ],
                 },
               ],
