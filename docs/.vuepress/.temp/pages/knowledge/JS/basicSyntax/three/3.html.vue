@@ -4,7 +4,7 @@
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre v-pre class="language-javascript"><code><span class="token keyword">delete</span> object<span class="token punctuation">.</span>property<span class="token punctuation">;</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p><code v-pre>expression</code> 的计算结果应该是某个属性的引用</p>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre v-pre class="language-javascript"><code><span class="token keyword">delete</span> object<span class="token punctuation">.</span>property<span class="token punctuation">;</span>
-<span class="token keyword">delete</span> object<span class="token punctuation">[</span><span class="token string">'property'</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token keyword">delete</span> object<span class="token punctuation">[</span><span class="token string">"property"</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="参数" tabindex="-1"><a class="header-anchor" href="#参数" aria-hidden="true">#</a> 参数</h2>
 <table>
 <thead>

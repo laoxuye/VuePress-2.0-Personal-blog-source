@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0b7848e2","path":"/knowledge/JS/basicSyntax/three/5.html","title":"字符串运算符","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"knowledge/JS/basicSyntax/three/5.md"}');export{e as data};

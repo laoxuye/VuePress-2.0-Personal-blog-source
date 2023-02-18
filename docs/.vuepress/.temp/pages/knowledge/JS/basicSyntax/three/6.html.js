@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-080e97a4\",\"path\":\"/knowledge/JS/basicSyntax/three/6.html\",\"title\":\"算术运算符\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"knowledge/JS/basicSyntax/three/6.md\"}")

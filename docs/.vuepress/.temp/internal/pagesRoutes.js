@@ -12,6 +12,8 @@ export const pagesRoutes = [
   ["v-15b55c9c","/knowledge/JS/basicSyntax/three/2.html",{"title":"instanceof"},["/knowledge/JS/basicSyntax/three/2","/knowledge/JS/basicSyntax/three/2.md"]],
   ["v-124bab5e","/knowledge/JS/basicSyntax/three/3.html",{"title":"delete"},["/knowledge/JS/basicSyntax/three/3","/knowledge/JS/basicSyntax/three/3.md"]],
   ["v-0ee1fa20","/knowledge/JS/basicSyntax/three/4.html",{"title":"typeof"},["/knowledge/JS/basicSyntax/three/4","/knowledge/JS/basicSyntax/three/4.md"]],
+  ["v-0b7848e2","/knowledge/JS/basicSyntax/three/5.html",{"title":"字符串运算符"},["/knowledge/JS/basicSyntax/three/5","/knowledge/JS/basicSyntax/three/5.md"]],
+  ["v-080e97a4","/knowledge/JS/basicSyntax/three/6.html",{"title":"算术运算符"},["/knowledge/JS/basicSyntax/three/6","/knowledge/JS/basicSyntax/three/6.md"]],
   ["v-3249b9b6","/knowledge/JS/basicSyntax/two/1.html",{"title":"字面量"},["/knowledge/JS/basicSyntax/two/1","/knowledge/JS/basicSyntax/two/1.md"]],
   ["v-2ee00878","/knowledge/JS/basicSyntax/two/2.html",{"title":"数组初始化表达式"},["/knowledge/JS/basicSyntax/two/2","/knowledge/JS/basicSyntax/two/2.md"]],
   ["v-2b76573a","/knowledge/JS/basicSyntax/two/3.html",{"title":"对象初始化表达式"},["/knowledge/JS/basicSyntax/two/3","/knowledge/JS/basicSyntax/two/3.md"]],

@@ -1,0 +1,12 @@
+import{_ as n,p as s,q as a,a1 as e}from"./framework-de73eade.js";const o={},t=e(`<h1 id="字符串运算符" tabindex="-1"><a class="header-anchor" href="#字符串运算符" aria-hidden="true">#</a> 字符串运算符</h1><p>字符串运算符（用 <code>+</code> 加号表示）用于把两个字符串值相连接。操作值位于运算符两侧，运算返回另一个字符串，它是两个操作数串的结合。</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">var</span> foo <span class="token operator">=</span> <span class="token string">&#39;Hello&#39;</span> <span class="token operator">+</span> <span class="token string">&#39; &#39;</span> <span class="token operator">+</span> <span class="token string">&#39;world!&#39;</span><span class="token punctuation">;</span>
+
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>foo<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token comment">// &#39;Hello world!&#39;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>简写操作符 （<code>+=</code> 用加等于号表示）也可以用来拼接字符串，例如：</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">var</span> foo <span class="token operator">=</span> <span class="token string">&#39;Hello&#39;</span><span class="token punctuation">;</span>
+
+foo <span class="token operator">+=</span> <span class="token string">&#39; world!&#39;</span><span class="token punctuation">;</span>
+<span class="token comment">// 相当于 myString = myString + &#39;bet&#39;</span>
+
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>foo<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token comment">// &quot;Hello world!&quot;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,5),c=[t];function l(p,i){return s(),a("div",null,c)}const d=n(o,[["render",l],["__file","5.html.vue"]]);export{d as default};
